@@ -1,0 +1,14 @@
+C:\Users\1502881\Documents\Trabalho_Matematica\bin\Debug\net8.0\Trabalho_Matematica.exe
+C:\Users\1502881\Documents\Trabalho_Matematica\bin\Debug\net8.0\Trabalho_Matematica.deps.json
+C:\Users\1502881\Documents\Trabalho_Matematica\bin\Debug\net8.0\Trabalho_Matematica.runtimeconfig.json
+C:\Users\1502881\Documents\Trabalho_Matematica\bin\Debug\net8.0\Trabalho_Matematica.dll
+C:\Users\1502881\Documents\Trabalho_Matematica\bin\Debug\net8.0\Trabalho_Matematica.pdb
+C:\Users\1502881\Documents\Trabalho_Matematica\obj\Debug\net8.0\Trabalho_Matematica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1502881\Documents\Trabalho_Matematica\obj\Debug\net8.0\Trabalho_Matematica.AssemblyInfoInputs.cache
+C:\Users\1502881\Documents\Trabalho_Matematica\obj\Debug\net8.0\Trabalho_Matematica.AssemblyInfo.cs
+C:\Users\1502881\Documents\Trabalho_Matematica\obj\Debug\net8.0\Trabalho_Matematica.csproj.CoreCompileInputs.cache
+C:\Users\1502881\Documents\Trabalho_Matematica\obj\Debug\net8.0\Trabalho_Matematica.dll
+C:\Users\1502881\Documents\Trabalho_Matematica\obj\Debug\net8.0\refint\Trabalho_Matematica.dll
+C:\Users\1502881\Documents\Trabalho_Matematica\obj\Debug\net8.0\Trabalho_Matematica.pdb
+C:\Users\1502881\Documents\Trabalho_Matematica\obj\Debug\net8.0\Trabalho_Matematica.genruntimeconfig.cache
+C:\Users\1502881\Documents\Trabalho_Matematica\obj\Debug\net8.0\ref\Trabalho_Matematica.dll
