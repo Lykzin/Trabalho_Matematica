@@ -8,6 +8,7 @@ class Program
         do
         {
             Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Cyan;
         Console.WriteLine(@"
   __  __       _                       _   _           
  |  \/  |     | |                     | | (_)          
@@ -17,8 +18,7 @@ class Program
  |_|  |_|\__,_|\__\___|_| |_| |_|\__,_|\__|_|\___\__,_|
                                                        
                                                        
-");
-        Console.ForegroundColor = ConsoleColor.Cyan;
+");    
         Console.ForegroundColor = ConsoleColor.Yellow;
         Console.WriteLine("\n=========================================");
         Console.WriteLine("||      Selecione a operação:         ||");
